@@ -13,7 +13,7 @@ To get started, you will need to:
   * [Sublime Text 3](https://www.sublimetext.com/3)
 
 2. Download this project's starting code base. In order to kickstart our process, we'll all start with a baseline project.
-  * [LadyHacks Workshop]()
+  * [LadyHacks Workshop](https://github.com/bettymakes/ladyhacks)
 
 3. Come with enthusiasm and an open mind :). We'll have tonnes of fun!
 
